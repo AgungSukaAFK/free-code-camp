@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    margin: 15px auto;
+    width: 95%;
+    max-width: 1300px;
+    background-color: rgb(204, 204, 204);
+}
+
+.header {
+    padding: 20px 0;
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin: 10px auto;
+    width: 90%;
+    background-color: white;
+}
+
+#image {
+    padding: 15px;
+    margin: 0 auto;
+    width: 70%;
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+#tribute-info {
+    font-family: serif;
+    text-align: center;
+}
